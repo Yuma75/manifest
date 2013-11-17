@@ -430,7 +430,7 @@
   <!-- MB -->
   <project path="device/htc/m7ul" name="device_htc_m7ul" remote="mb" revision="kk4.4" />
   <project path="device/htc/m7-commomn" name="device_htc_m7-common" remote="mb" revision="kk4.4" />
-  <project path="device/htc/msm8960-common" name="device_htc_msm8960-common" remote="mb" revision="kk4.4" />
+  <project path="device/htc/msm8960-common" name="kernel_htc_m7" remote="mb" revision="kk4.4" />
   <project path="kernel/htc/m7" name="device_htc_msm8960-common" remote="mb" revision="kk4.4" />
   <project path="frameworks/base" name="frameworks_base" remote="mb" revision="kk4.4" />
   <project path="manifest" name="manifest" remote="mb" revision="kk4.4" />
