@@ -439,8 +439,4 @@
   <project path="system/extras" name="system_extras" remote="mb" revision="kk4.4" />
   <project path="system/netd" name="system_netd" remote="mb" revision="kk4.4" />
   <project path="system/vold" name="system_vold" remote="mb" revision="kk4.4" />
-
-
-  <!--CyanogenMod DSPManager -->
-
 </manifest>
