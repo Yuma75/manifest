@@ -433,7 +433,7 @@
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="mb" revision="kk4.4" />
   <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" remote="mb" revision="kk4.4" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="mb" revision="kk4.4" />
-  <project path="prebuilt" name="android_prebuilt" remote="mb" revision="kk4.4" />
+  <project path="prebuilt" name="prebuilt" remote="mb" revision="kk4.4" />
   <project path="vendor/slim" name="vendor_slim" remote="mb" revision="kk4.4" />
   <project path="system/core" name="system_core" remote="mb" revision="kk4.4" />
   <project path="system/extras" name="system_extras" remote="mb" revision="kk4.4" />
