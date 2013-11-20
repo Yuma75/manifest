@@ -410,9 +410,11 @@
   <project path="packages/apps/Exchange" name="MightyROM/packages_apps_Exchange" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Gallery2" name="MightyROM/packages_apps_Gallery2" remote="mb" revision="kk4.4" />
   <project path="packages/apps/InCallUI" name="MightyROM/packages_apps_InCallUI" remote="mb" revision="kk4.4" />
+  <project path="packages/apps/MonthCalendarWidget" name="MightyROM/packages_apps_MonthCalendarWidget" remote="mb" revision="kk4.4" />
   <project path="packages/apps/MusicFX" name="MightyROM/packages_apps_MusicFX" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Mms" name="MightyROM/packages_apps_Mms" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Nfc" name="MightyROM/packages_apps_Nfc" remote="mb" revision="kk4.4" />
+  <project path="packages/apps/PerformanceControl" name="MightyROM/packages_apps_PerformanceControl" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Phone" name="MightyROM/packages_apps_Phone" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Provision" name="MightyROM/packages_apps_Provision" remote="mb" revision="kk4.4" />
   <project path="packages/apps/SamsungServiceMode" name="MightyROM/packages_apps_SamsungServiceMode" remote="mb" revision="kk4.4" />
