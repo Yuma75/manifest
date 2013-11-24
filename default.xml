@@ -330,7 +330,6 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
-  <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" />
@@ -431,6 +430,7 @@
   <project path="prebuilt" name="MightyROM/prebuilt" remote="mb" revision="kk4.4" />
   <project path="system/core" name="MightyROM/system_core" remote="mb" revision="kk4.4" />
   <project path="system/extras" name="MightyROM/system_extras" remote="mb" revision="kk4.4" />
+  <project path="system/media" name="MightyROM/system_media" remote="mb" revision="kk4.4" />
   <project path="system/netd" name="MightyROM/system_netd" remote="mb" revision="kk4.4" />
   <project path="system/vold" name="MightyROM/system_vold" remote="mb" revision="kk4.4" />
   <project path="vendor/mighty" name="MightyROM/vendor_mighty" remote="mb" revision="kk4.4" />
