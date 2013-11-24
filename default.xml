@@ -252,7 +252,6 @@
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
-  <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
@@ -395,6 +394,7 @@
   <project path="hardware/ti/wpan" name="MightyROM/hardware_ti_wpan" remote="mb" revision="kk4.4" />
   <project path="libcore" name="MightyROM/libcore" remote="mb" revision="kk4.4" />
   <project path="manifest" name="MightyROM/manifest" remote="mb" revision="kk4.4" />
+  <project path="packages/apps/Apollo" name="MightyROM/packages_apps_Apollo" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Bluetooth" name="MightyROM/packages_apps_Bluetooth" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Browser" name="MightyROM/packages_apps_Browser" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Calculator" name="MightyROM/packages_apps_Calculator" remote="mb" revision="kk4.4" />
@@ -411,7 +411,6 @@
   <project path="packages/apps/Gallery2" name="MightyROM/packages_apps_Gallery2" remote="mb" revision="kk4.4" />
   <project path="packages/apps/InCallUI" name="MightyROM/packages_apps_InCallUI" remote="mb" revision="kk4.4" />
   <project path="packages/apps/MonthCalendarWidget" name="MightyROM/packages_apps_MonthCalendarWidget" remote="mb" revision="kk4.4" />
-  <project path="packages/apps/MusicFX" name="MightyROM/packages_apps_MusicFX" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Mms" name="MightyROM/packages_apps_Mms" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Nfc" name="MightyROM/packages_apps_Nfc" remote="mb" revision="kk4.4" />
   <project path="packages/apps/PerformanceControl" name="MightyROM/packages_apps_PerformanceControl" remote="mb" revision="kk4.4" />
