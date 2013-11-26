@@ -6,7 +6,7 @@
            
   <remote  name="mb"
            fetch="http://github.com/" />
-          
+          ds
   <default revision="refs/tags/android-4.4_r1.2"
            remote="aosp"
            sync-j="4" />
@@ -404,7 +404,7 @@
   <project path="packages/apps/DashClock" name="MightyROM/packages_apps_DashClock" remote="mb" revision="kk4.4" />
   <project path="packages/apps/DeskClock" name="MightyROM/packages_apps_DeskClock" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Dialer" name="MightyROM/packages_apps_Dialer" remote="mb" revision="kk4.4" />
-  <project path="packages/apps/DSPManager" name="MightyROM/packages_apps_DSPManager" remote="mb" revision="cm-11.0" />
+  <project path="packages/apps/DSPManager" name="MightyROM/packages_apps_DSPManager" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Email" name="MightyROM/packages_apps_Email" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Exchange" name="MightyROM/packages_apps_Exchange" remote="mb" revision="kk4.4" />
   <project path="packages/apps/Gallery2" name="MightyROM/packages_apps_Gallery2" remote="mb" revision="kk4.4" />
