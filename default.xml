@@ -6,7 +6,7 @@
            
   <remote  name="mb"
            fetch="http://github.com/" />
-          ds
+
   <default revision="refs/tags/android-4.4_r1.2"
            remote="aosp"
            sync-j="4" />
