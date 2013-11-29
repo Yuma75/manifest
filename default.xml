@@ -59,7 +59,6 @@
   <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" />
   <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" />
   <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" />
-  <project path="external/chromium_org/third_party/angle_dx11" name="platform/external/chromium_org/third_party/angle_dx11" />
   <project path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" />
   <project path="external/chromium_org/third_party/freetype" name="platform/external/chromium_org/third_party/freetype" />
   <project path="external/chromium_org/third_party/icu" name="platform/external/chromium_org/third_party/icu" />
@@ -351,6 +350,7 @@
   <project path="external/busybox" name="MightyROM/external_busybox" remote="mb" revision="kk4.4" />
   <project path="external/clang" name="MightyROM/external_clang" remote="mb" revision="kk4.4"  />
   <project path="external/chromium_org" name="MightyROM/external_chromium_org" remote="mb" revision="kk4.4" />
+  <project path="external/chromium_org/third_party/angle_dx11" name="MightyROM/external_chromium_org_third_party_angle_dx11" remote="mb" revision="kk4.4" />
   <project path="external/e2fsprogs" name="MightyROM/external_e2fsprogs" remote="mb" revision="kk4.4"  />
   <project path="external/flac" name="MightyROM/external_flac" remote="mb" revision="kk4.4" groups="pdk" />
   <project path="external/koush/Widgets" name="MightyROM/Widgets" remote="mb" revision="kk4.4" />
