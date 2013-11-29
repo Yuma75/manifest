@@ -97,7 +97,6 @@
   <project path="external/expat" name="platform/external/expat" groups="pdk" />
   <project path="external/eyes-free" name="platform/external/eyes-free" />
   <project path="external/fdlibm" name="platform/external/fdlibm" />
-  <project path="external/flac" name="platform/external/flac" groups="pdk" />
   <project path="external/freetype" name="platform/external/freetype" groups="pdk" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" />
@@ -353,6 +352,7 @@
   <project path="external/clang" name="MightyROM/external_clang" remote="mb" revision="kk4.4"  />
   <project path="external/chromium_org" name="MightyROM/external_chromium_org" remote="mb" revision="kk4.4" />
   <project path="external/e2fsprogs" name="MightyROM/external_e2fsprogs" remote="mb" revision="kk4.4"  />
+  <project path="external/flac" name="MightyROM/external_flac" remote="mb" revision="kk4.4" groups="pdk" />
   <project path="external/koush/Widgets" name="MightyROM/Widgets" remote="mb" revision="kk4.4" />
   <project path="external/koush/Superuser" name="MightyROM/Superuser" remote="mb" revision="kk4.4" />
   <project path="external/libnfc-nci" name="MightyROM/external_libnfc-nci" remote="mb" revision="kk4.4" />
